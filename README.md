@@ -1,5 +1,5 @@
 <p align="center">
-<img src="/Stay Cool.gif" width="300px">
+<!--<img src="/Stay Cool.gif" width="300px">-->
 </p>
 <h1 align="center">Hello Everyone!! 👋 I'm Sahar. Hope you are doing well.</h1>
 
