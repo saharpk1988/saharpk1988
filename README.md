@@ -9,16 +9,14 @@
 
 
 <p align="justify">
-Hey, glad to see you here! I'm Sahar, a passionate and dedicated software engineer with expertise in software QA automation and software engineering who loves to experiment with new technologies and solve real-world challenges. With extensive experience as both a Software QA Automation Engineer and Software Engineer, I bring a wealth of expertise in software testing principles, quality assurance practices, and test automation tools such as Selenium, Postman, and Jmeter. My programming skills encompass Java, Kotlin, and Python, along with a thorough understanding of object-oriented design principles. Additionally, I possess a solid understanding of SQL and am highly skilled in PostgreSQL database management. I am deeply passionate about learning, experiementing, programming and generating fresh and imaginative ideas, and delivering high-quality code that delivers the best user experience.</p><br/><br/>
-
-
+Hey, glad to see you here! I'm Sahar, a passionate and dedicated software engineer with expertise in software QA automation and software engineering who loves to experiment with new technologies and solve real-world challenges. With extensive experience as both a Software QA Automation Engineer and Software Engineer, I bring a wealth of expertise in software testing principles, quality assurance practices, and test automation tools such as Selenium, Postman, and Jmeter. My programming skills encompass Java, Kotlin, and Python, along with a thorough understanding of object-oriented design principles. Additionally, I possess a solid understanding of SQL and am highly skilled in PostgreSQL database management. I am deeply passionate about learning, experiementing, programming and generating fresh and imaginative ideas, and delivering high-quality code that delivers the best user experience.</p><br/>
 
 
 - 🔭 I hold a Master of Science degree in Computer Science Engineering.
 - 🌱 I’m currently learning React.
 - 😄 Pronouns: Her/She.
 - ⚡ Fun fact: When I'm not coding, you can usually find me in the kitchen cooking up a storm for my loved ones or scrolling through social media feeds filled with adorable pet pictures or fun videos.
-- 📫 How to reach me **sahar.pk88@gmail.com** <br/><br/>  
+- 📫 How to reach me **sahar.pk88@gmail.com** <br/>
  
 
 <h3> Languages and Tools: </h3>
@@ -33,6 +31,6 @@ Hey, glad to see you here! I'm Sahar, a passionate and dedicated software engine
 <img align="left" width="39px" height="31px" src="https://www.oracle.com/a/ocom/img/cb71-java-logo.png"/>
 <img align="left" width="33px" height="27px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/600px-Sql_data_base_with_logo.png"/>
 <img align="left" width="43px" height="28px" src="https://maven.apache.org/images/maven-logo-black-on-white.png"/>
-<img align="left" width="36px" height="29px" src="https://cdn.iconscout.com/icon/free/png-512/jira-282222.png?f=avif&w=512"/><br/><br/><br/>
+<img align="left" width="36px" height="29px" src="https://cdn.iconscout.com/icon/free/png-512/jira-282222.png?f=avif&w=512"/><br/><br/>
 
 <h4>Let's collaborate and create something truly remarkable!</h4>
