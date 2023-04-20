@@ -21,7 +21,7 @@ Hey, glad to see you here! I'm Sahar, a passionate and dedicated software engine
 - 📫 How to reach me **sahar.pk88@gmail.com** <br/><br/>  
  
 
-<h3> Languages and Tools: </h3><br/>
+<h3> Languages and Tools: </h3>
 <img align="left" width="27px" height="27px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png"/>
 <img align="left" width="27px" height="27px" src="https://www.selenium.dev/images/selenium_logo_square_green.png"/>
 <img align="left" width="39px" height="27px" src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"/>
@@ -33,6 +33,6 @@ Hey, glad to see you here! I'm Sahar, a passionate and dedicated software engine
 <img align="left" width="39px" height="31px" src="https://www.oracle.com/a/ocom/img/cb71-java-logo.png"/>
 <img align="left" width="33px" height="27px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/600px-Sql_data_base_with_logo.png"/>
 <img align="left" width="43px" height="28px" src="https://maven.apache.org/images/maven-logo-black-on-white.png"/>
-<img align="left" width="36px" height="29px" src="https://cdn.iconscout.com/icon/free/png-512/jira-282222.png?f=avif&w=512"/><br/><br/><br/><br/>
+<img align="left" width="36px" height="29px" src="https://cdn.iconscout.com/icon/free/png-512/jira-282222.png?f=avif&w=512"/><br/><br/><br/>
 
-<h3>**Let's collaborate and create something truly remarkable!**</h3>
+<h4>Let's collaborate and create something truly remarkable!</h4>
