@@ -1,7 +1,7 @@
 <p align="center">
 <img src="/waving.gif" width="300px">
 </p>
-<h1 align="center">Greetings everyone! 👋 My name is Sahar.</h1>
+<h1 align="center">Greetings everyone! 👋 </h1>
 
 [![Hello, welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/saharpk1988) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/saharpourkarimi/)
 [![Stackoverflow](https://img.shields.io/badge/--stackoverflow?label=stackoverflow&logo=stackoverflow&style=social)](https://stackoverflow.com/users/12813019/sahar-pk)
@@ -25,15 +25,16 @@ Hey, glad to see you here! I'm Sahar, a passionate and dedicated software engine
 <h3> Languages and Tools: </h3>
 <img align="left" width="27px" height="27px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png"/>
 <img align="left" width="27px" height="27px" src="https://www.selenium.dev/images/selenium_logo_square_green.png"/>
-<img align="left" width="27px" height="27px" src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"/>
+<img align="left" width="36px" height="27px" src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"/>
 <img align="left" width="27px" height="27px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/>
 <img align="left" width="27px" height="27px" src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg"/>
-<img align="left" width="27px" height="27px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/512px-AWS_Simple_Icons_AWS_Cloud.svg.png"/>
+<img align="left" width="33px" height="27px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/512px-AWS_Simple_Icons_AWS_Cloud.svg.png"/>
 <img align="left" width="27px" height="27px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
-<img align="left" width="27px" height="27px" src="https://www.oracle.com/a/ocom/img/cb71-java-logo.png"/>
-<img align="left" width="27px" height="27px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/600px-Sql_data_base_with_logo.png"/>
-<img align="left" width="27px" height="27px" src="https://maven.apache.org/images/maven-logo-black-on-white.png"/>
-<img align="left" width="27px" height="27px" src="https://cdn.iconscout.com/icon/free/png-512/jira-282222.png?f=avif&w=512"/>
+<img align="left" width="33px" height="27px" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg"/>
+<img align="left" width="36px" height="27px" src="https://www.oracle.com/a/ocom/img/cb71-java-logo.png"/>
+<img align="left" width="33px" height="27px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/600px-Sql_data_base_with_logo.png"/>
+<img align="left" width="36px" height="27px" src="https://maven.apache.org/images/maven-logo-black-on-white.png"/>
+<img align="left" width="33px" height="27px" src="https://cdn.iconscout.com/icon/free/png-512/jira-282222.png?f=avif&w=512"/>
 
 
 
