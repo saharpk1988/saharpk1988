@@ -13,13 +13,13 @@ Hey, glad to see you here! I'm Sahar, a passionate and dedicated software engine
 Let's collaborate and create something truly remarkable! </p>
 
 <br>
-<list>
-<item> 🔭 I hold a Master of Science degree in Computer Science Engineering.</item>
-<item> 🌱 I’m currently learning React.</item>
-<item> 😄 Pronouns: Her/She.</item>
-<item> ⚡ Fun fact: When I'm not coding, you can usually find me in the kitchen cooking up a storm for my loved ones or scrolling through social media feeds filled with adorable pet pictures or fun videos.</item>
-<item> 📫 How to reach me **sahar.pk88@gmail.com**</item>
-</list>  
+
+- 🔭 I hold a Master of Science degree in Computer Science Engineering.
+- 🌱 I’m currently learning React.
+- 😄 Pronouns: Her/She.
+- ⚡ Fun fact: When I'm not coding, you can usually find me in the kitchen cooking up a storm for my loved ones or scrolling through social media feeds filled with adorable pet pictures or fun videos.
+- 📫 How to reach me **sahar.pk88@gmail.com**
+ 
 
 <h3> Languages and Tools: </h3>
 <img align="left" width="27px" height="27px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png"/>
@@ -29,7 +29,7 @@ Let's collaborate and create something truly remarkable! </p>
 <img align="left" width="27px" height="27px" src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg"/>
 <img align="left" width="33px" height="27px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/512px-AWS_Simple_Icons_AWS_Cloud.svg.png"/>
 <img align="left" width="27px" height="27px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
-<img align="left" width="26px" height="27px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/180px-Apple_logo_black.svg.png"/>
+<img align="left" width="27px" height="27px" src="https://www.apple.com/ac/structured-data/images/knowledge_graph_logo.png?202109031725"/>
 <img align="left" width="36px" height="27px" src="https://www.oracle.com/a/ocom/img/cb71-java-logo.png"/>
 <img align="left" width="33px" height="27px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/600px-Sql_data_base_with_logo.png"/>
 <img align="left" width="36px" height="27px" src="https://maven.apache.org/images/maven-logo-black-on-white.png"/>
