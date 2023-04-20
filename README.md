@@ -35,6 +35,6 @@ Hey, glad to see you here! I'm Sahar, a passionate and dedicated software engine
 <img align="left" width="43px" height="28px" src="https://maven.apache.org/images/maven-logo-black-on-white.png"/>
 <img align="left" width="36px" height="29px" src="https://cdn.iconscout.com/icon/free/png-512/jira-282222.png?f=avif&w=512"/><br/><br/>
 
-<p align="left"> **Let's collaborate and create something truly remarkable!** </p>
+**Let's collaborate and create something truly remarkable!**
 
 
